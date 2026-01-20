@@ -76,6 +76,8 @@
 - ✨ Open to collaborations and learning opportunities
 
 ---
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-oniyoislamiyat%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:oniyoislamiyat@gmail.com)
 
 <!--
 MeeyahCode/MeeyahCode is a ✨ special ✨ repository because its README.md
